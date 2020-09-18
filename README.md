@@ -1,4 +1,6 @@
-# Study Group for Section 23 - Calculus and Gradient Descent
+# Study Group for Section 23
+
+## Calculus and Gradient Descent
 
 For FT-070620
 
